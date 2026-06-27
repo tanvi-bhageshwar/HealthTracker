@@ -1,0 +1,6 @@
+{
+  "name": "Community Health & Nutrition Tracker",
+  "description": "A full-featured community-driven health, water, activity, and nutrition tracker with a personalized AI coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
